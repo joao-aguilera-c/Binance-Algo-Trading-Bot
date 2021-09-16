@@ -1,0 +1,3 @@
+symbol,strategy,RR,max_loss_usd,timeframe
+BTCUSDT,stoch,11,1,120
+ETHUSDT,stoch,11,1,120
