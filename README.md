@@ -15,7 +15,7 @@ Gosto de pensar neste algoritmo como uma plataforma. Nela adiciono novos setups 
 
 ---------------------
 
-# Binance-Something-Trading-Bot (English)
+# Binance-Algo-Trading-Bot (English)
 
 This is a test-only demo version of my personal cryptocurrency trading algorithm.
 
